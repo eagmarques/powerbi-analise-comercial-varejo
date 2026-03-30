@@ -7,6 +7,11 @@
 > Case técnico desenvolvido para processo seletivo da **Jaar Consult (março/2026)** — análise de dados comerciais de uma empresa de varejo com foco em vendas, promoções e margem.
 
 ---
+## 📸 Preview
+
+![Visão Executiva](prints/pagina1-visao-executiva.png)
+![Produtos e Categorias](prints/pagina2-produtos-categorias.png)
+![Análise de Promoções](prints/pagina3-analise-promocoes.png)
 
 ## 📋 Índice
 
@@ -330,7 +335,7 @@ Acesse a pasta `/prints` para ver screenshots de cada página do dashboard.
 
 ## 👨‍💻 Autor
 
-Desenvolvido como case técnico para processo seletivo — **(março/2026)**
+Desenvolvido por Eduardo Marques como case técnico para processo seletivo — **(março/2026)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eagmarques)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eagmarques)
